@@ -162,4 +162,4 @@ else:
 
 st.markdown("---")
 st.subheader("📋 Detalle de Movimientos Filtrados")
-st.dataframe(df_filtrado, use_container_width=True)S
+st.dataframe(df_filtrado, use_container_width=True)
