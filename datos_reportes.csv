@@ -1,0 +1,21 @@
+Fecha,Tipo,Responsable,Categoría,Descripción,Monto,Estado,Sucursal
+2024-01-03,Ingreso,Ana Gómez,Ventas,Venta de producto A,150000,Confirmado,Principal
+2024-01-05,Egreso,Laura Martínez,Compras,Compra de insumos,50000,Pagado,Principal
+2024-01-07,Egreso,Carlos Pérez,Sueldos,Sueldos enero,90000,Pagado,Sucursal Norte
+2024-01-10,Egreso,María Ruiz,Impuestos,Pago IVA,30000,Pagado,Principal
+2024-01-12,Ingreso,Ana Gómez,Ventas,Venta de producto B,180000,Confirmado,Sucursal Norte
+2024-01-13,Egreso,Laura Martínez,Compras,Compra de maquinaria,120000,Pendiente,Principal
+2024-01-15,Ingreso,Ana Gómez,Otros,Intereses bancarios,8000,Confirmado,Principal
+2024-01-18,Egreso,María Ruiz,Impuestos,Pago retención,17000,Pagado,Sucursal Norte
+2024-01-20,Egreso,Carlos Pérez,Sueldos,Sueldos febrero,95000,Pagado,Principal
+2024-01-22,Ingreso,Ana Gómez,Ventas,Venta de producto C,160000,Confirmado,Principal
+2024-01-24,Egreso,Laura Martínez,Compras,Compra de inventario,40000,Pagado,Sucursal Norte
+2024-01-27,Egreso,María Ruiz,Impuestos,Pago ICA,22000,Pendiente,Principal
+2024-01-29,Egreso,Carlos Pérez,Sueldos,Sueldos marzo,97000,Pagado,Sucursal Norte
+2024-02-02,Ingreso,Ana Gómez,Ventas,Venta de producto D,175000,Confirmado,Sucursal Norte
+2024-02-04,Egreso,Laura Martínez,Compras,Compra de suministros,35000,Pagado,Principal
+2024-02-06,Egreso,María Ruiz,Impuestos,Pago IVA,31000,Pagado,Principal
+2024-02-09,Ingreso,Ana Gómez,Otros,Devolución impuestos,9000,Confirmado,Sucursal Norte
+2024-02-11,Egreso,Carlos Pérez,Sueldos,Sueldos abril,98000,Pagado,Principal
+2024-02-13,Egreso,Laura Martínez,Compras,Compra de servicios,60000,Pendiente,Sucursal Norte
+2024-02-15,Ingreso,Ana Gómez,Ventas,Venta de producto E,185000,Confirmado,Principal
