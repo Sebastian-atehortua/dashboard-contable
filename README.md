@@ -1,7 +1,7 @@
 # 💼 Dashboard Contable – Streamlit App
 
 **Autor:** Sebastián Atehortua  
-**📍 Link en vivo:** [Ver Dashboard](https://dashboard-contable-sebastian.streamlit.app)
+**📍 Link en vivo:** [Ver Dashboard](https://dashboard-contable-jdumjsn7kojt6zn4i2nqzd.streamlit.app/)
 
 ---
 
